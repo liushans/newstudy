@@ -1,3 +1,4 @@
 # newstudy
 用来学习的仓库
-object detection
+目标检测
+害虫的目标检测
